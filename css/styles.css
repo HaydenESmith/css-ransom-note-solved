@@ -128,7 +128,8 @@ body {
 
 /* FRONT-END word */
 
-.frontendFLetter {
+.frontendFLetter,
+.recycled1 {
   font-size: 100px;
   color: rgb(209, 245, 47);
   text-decoration: none;
@@ -210,7 +211,8 @@ body {
   text-decoration: underline;
   text-transform: uppercase;
 }
-.developerLLetter {
+.developerLLetter,
+.recycled2 {
   font-size: 50px;
   color: #7e1d1d;
   text-decoration: underline;
@@ -234,7 +236,8 @@ body {
   text-decoration: none;
   text-transform: uppercase;
 }
-.developerRLetter {
+.developerRLetter,
+.recycled3 {
   font-size: 75px;
   color: #531878;
   text-decoration: line-through;
@@ -255,7 +258,8 @@ body {
   text-decoration: underline;
   text-transform: none;
 }
-.takeKLetter {
+.takeKLetter,
+.recycled4 {
   font-size: 80px;
   color: rgb(27, 124, 128);
   text-decoration: overline;
@@ -270,7 +274,8 @@ body {
 
 /* UP word */
 
-.upULetter {
+.upULetter,
+.recycled5 {
   font-size: 90px;
   color: #004406;
   text-decoration: line-through;
@@ -291,7 +296,8 @@ body {
   text-decoration: overline;
   text-transform: uppercase;
 }
-.gardeningALetter {
+.gardeningALetter,
+.recycled6 {
   font-size: 55px;
   color: rgb(4, 255, 0);
   text-decoration: underline;
@@ -309,7 +315,8 @@ body {
   text-decoration: line-through;
   text-transform: lowercase;
 }
-.gardeningELetter {
+.gardeningELetter,
+.recycled7 {
   font-size: 80px;
   color: rgb(93, 203, 170);
   text-decoration: none;
@@ -335,59 +342,64 @@ body {
 }
 .gardeningGTwoLetter {
   font-size: 50px;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  color: silver;
+  text-decoration: overline;
+  text-transform: uppercase;
 }
 
 /* BECAUSE word */
 
-.becauseBLetter {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+.becauseBLetter,
+.recycled8 {
+  font-size: 75px;
+  color: #141c4d;
+  text-decoration: underline;
+  text-transform: uppercase;
 }
-.becauseELetter {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+.becauseELetter,
+.recycled9 {
+  font-size: 40px;
+  color: #6e904b;
+  text-decoration: underline;
+  text-transform: none;
 }
-.becauseCLetter {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+.becauseCLetter,
+.recycled10 {
+  font-size: 50px;
+  color: #2d957d;
+  text-decoration: line-through;
+  text-transform: uppercase;
 }
-.becauseALetter {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+.becauseALetter,
+.recycled11 {
+  font-size: 35px;
+  color: #084946;
+  text-decoration: underline;
+  text-transform: lowercase;
 }
 .becauseULetter {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 65px;
+  color: rgb(136, 54, 186);
+  text-decoration: line-through;
+  text-transform: lowercase;
 }
 .becauseSLetter {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 25px;
+  color: rgb(246, 87, 34);
+  text-decoration: underline;
+  text-transform: lowercase;
 }
-.becauseETwoLetter {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+.becauseETwoLetter,
+.recycled12 {
+  font-size: 30px;
+  color: rgb(209, 245, 47);
+  text-decoration: line-through;
+  text-transform: uppercase;
 }
 
 /* THEY word */
 
-.theyTLetter {
+/* .theyTLetter {
   font-size: ;
   color: ;
   text-decoration: ;
@@ -410,11 +422,11 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-}
+} */
 
 /* WANTED word */
 
-.wantedWLetter {
+/* .wantedWLetter {
   font-size: ;
   color: ;
   text-decoration: ;
@@ -449,11 +461,11 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-}
+} */
 
 /* TO word */
 
-.toTLetter {
+/* .toTLetter {
   font-size: ;
   color: ;
   text-decoration: ;
@@ -464,11 +476,11 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-}
+} */
 
 /* IMPROVE word */
 
-.improveILetter {
+/* .improveILetter {
   font-size: ;
   color: ;
   text-decoration: ;
@@ -509,11 +521,11 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-}
+} */
 
 /* THEIR word */
 
-.theirTLetter {
+/* .theirTLetter {
   font-size: ;
   color: ;
   text-decoration: ;
@@ -542,11 +554,11 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-}
+} */
 
 /* ROOT word */
 
-.rootRLetter {
+/* .rootRLetter {
   font-size: ;
   color: ;
   text-decoration: ;
@@ -569,11 +581,11 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-}
+} */
 
 /* SKILLS word */
 
-.skillsSLetter {
+/* .skillsSLetter {
   font-size: ;
   color: ;
   text-decoration: ;
@@ -608,27 +620,27 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-}
+} */
 
 /* SYMBOLS */
 
 .hyphen {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 75px;
+  color: rgb(21, 245, 125);
+  text-decoration: none;
+  text-transform: none;
 }
 .exclamation-mark {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 75px;
+  color: rgb(140, 18, 184);
+  text-decoration: line-through;
+  text-transform: uppercase;
 }
 .question-mark {
-  font-size: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 50px;
+  color: rgb(33, 200, 226);
+  text-decoration: overline;
+  text-transform: uppercase;
 }
 
 .agu {
